@@ -2,11 +2,11 @@
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("RAU_SACH_THANH_TRUC")]
+[assembly: AssemblyTitle("DoAnTotNghiep")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("© 2017 by ManMan89")]
-[assembly: AssemblyProduct("RAU_SACH_THANH_TRUC")]
+[assembly: AssemblyProduct("DoAnTotNghiep")]
 [assembly: AssemblyCopyright("© 2017 by ManMan89")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

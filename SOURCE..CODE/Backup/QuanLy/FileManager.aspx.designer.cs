@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace RAU_SACH_THANH_TRUC {
+namespaceDoAnTotNghiep {
     
     
     public partial class FileManager {

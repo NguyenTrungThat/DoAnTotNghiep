@@ -1,5 +1,5 @@
 ﻿
-namespace RAU_SACH_THANH_TRUC {
+namespace DoAnTotNghiep {
 
     public partial class GioHang_TrangChu {
 

@@ -5,9 +5,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("DO_AN_TOT_NGHIEP")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("© 2017 by ManMan89")]
+[assembly: AssemblyCompany("© 2022 by NguyenTrungThat")]
 [assembly: AssemblyProduct("DO_AN_TOT_NGHIEP")]
-[assembly: AssemblyCopyright("© 2017 by ManMan89")]
+[assembly: AssemblyCopyright("© 2022 by NguyenTrungThat")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

@@ -12,7 +12,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1"/>
 	<meta name="description" content="Rau sạch và Dịch vụ rau sạch"/>
-	<meta name="author" content="ManMan89"/>
+	<meta name="author" content="TrungThat"/>
 	<meta name="robots" content="all"/>
 
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
@@ -61,7 +61,7 @@
             </div>
         </div>
 		<div id="hd-container" class="wrap-p">
-			<a href="Default.aspx"><h2>TrungThat</h2></a>
+			<a href="Default.aspx"><h2>Rau Củ Sạch TT</h2></a>
 			<ul>
 				<li style="width: 120px; line-height: 15px;"><a href="DiaChi.aspx"><i class="ico-hd-home" style="margin-top: -3px;"></i>&nbsp;ĐỊA CHỈ<br/><span style="color: yellow">&nbsp;MUA HÀNG</span></a></li>
 				<li style="width: 180px; line-height: 15px;"><a href="javascript:;"><i class="ico-hd-home" style="margin-top: -3px;"></i>&nbsp;GIAO HÀNG MIỄN PHÍ<br/><span style="color: yellow">&nbsp;TẠI HCM</span></a></li>
@@ -165,10 +165,10 @@
 									</table>
 								</li>
 								<li>
-									<a href="https://www.facebook.com" target="_blank"><img src="images/icon_fb.png"></a>
+									<a href="https://www.facebook.com/nguyentrungthat1609" target="_blank"><img src="images/icon_fb.png"></a>
 									<a href="https://twitter.com" target="_blank"><img src="images/icon_tt.png"></a>
 									<a href="https://plus.google.com" target="_blank"><img src="images/icon_gp.png"></a>
-									<a href="https://www.youtube.com" target="_blank"><img src="images/icon_yt.png"></a>
+									<a href="https://www.youtube.com/c/Nguy%E1%BB%85nTrungTh%E1%BA%ADt" target="_blank"><img src="images/icon_yt.png"></a>
 								</li>
 							</ul>
 						</td>
@@ -192,7 +192,6 @@
 								<li><span id="title">THỐNG KÊ</span></li>
                                 <li>LƯỢT XEM</li>
 								<li style="color: Yellow"><asp:Label ID="label_pageview" runat="server">0</asp:Label></li>
-								<li>ĐANG ONLINE</li>
 								<li style="color: Yellow"><%=Application["Khach_Online"].ToString()%></li>
 							</ul>
 						</td>
